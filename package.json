@@ -14,6 +14,7 @@
     "@netlify/plugin-nextjs": "~5.13.4",
     "@svgr/webpack": "^5.5.0",
     "@types/js-yaml": "^4.0.0",
+    "caniuse-lite": "^1.0.30001747",
     "date-fns": "^2.19.0",
     "gray-matter": "^4.0.2",
     "js-yaml": "^4.0.0",
